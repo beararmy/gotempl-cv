@@ -2,9 +2,6 @@ skills:
   - displayName: Azure
     iconifyID: logos:microsoft-azure
     level: 5
-  # - displayName: Google Cloud
-  #   iconifyID: logos:google-cloud
-  #   level: 4
   - displayName: Terraform
     iconifyID: logos:terraform-icon
     level: 5
@@ -14,21 +11,21 @@ skills:
   - displayName: Bash
     iconifyID: mdi:bash
     level: 4
-  # - displayName: Go
-  #   iconifyID: skill-icons:golang
-  #   level: 3
-  # - displayName: Python
-  #   iconifyID: logos:python
-  #   level: 3
   - displayName: Kubernetes
     iconifyID: devicon:kubernetes
     level: 3
+  - displayName: openapi
+    iconifyID: devicon:openapi
+    level: 3
+  - displayName: Windows
+    iconifyID: devicon:windows8
+    level: 5
+  - displayName: Linux
+    iconifyID: devicon:linux
+    level: 5
 skillsLearning:
   - displayName: Nix
     iconifyID: devicon:nixos
   - displayName: Cue
     iconifyID: simple-icons:cncf
     colour: "#5884B8"
-  - displayName: Cilium
-    iconifyID: simple-icons:cilium
-    colour: "#00ADD8"

@@ -1,21 +1,56 @@
 certificates:
-  - displayName: "CKA: Certified Kubernetes Administrator"
-    issuer: The Linux Foundation
-    badgePath: public/images/certificate-badges/cka-certified-kubernetes-administrator.png
-    issueDate: "2022-10-23"
-    expireDate: "2025-10-23"
-  - displayName: "CKAD: Certified Kubernetes Application Developer"
-    issuer: The Linux Foundation
-    badgePath: public/images/certificate-badges/ckad-certified-kubernetes-application-developer.png
-    issueDate: "2021-10-23"
-    expireDate: "2024-10-23"
-  - displayName: Professional Cloud Architect Certification
+  - displayName: 'HashiCorp Certified: Terraform Associate (003)'
+    issuer: HashiCorp
+    badgePath: public/images/certificate-badges/hashicorp-terraform-003.png
+    issueDate: "2023-11-28"
+    expireDate: "2025-11-28"
+  - displayName: 'Microsoft Certified: Azure Solutions Architect Expert'
+    issuer: Microsoft
+    badgePath: public/images/certificate-badges/azure-expert-solutions-architect.png
+    issueDate: 20 Aug 2024
+    expireDate: 21 Aug 2025
+  - displayName: 'Microsoft Certified: Azure Virtual Desktop Specialty'
+    issuer: Microsoft
+    badgePath: public/images/certificate-badges/azure-speciality-avd.png
+    issueDate: 25 May 2022
+    expireDate: 26 May 2025
+  - displayName: 'Microsoft Certified: Windows Server Hybrid Administrator Associate'
+    issuer: Microsoft
+    badgePath: public/images/certificate-badges/azure-associate-windows-server-hybrid-administrator.png
+    issueDate: 5 Sept 2022
+    expireDate: 6 Sept 2025
+  - displayName: 'Microsoft Certified: Azure AI Engineer Associate'
+    issuer: Microsoft
+    badgePath: public/images/certificate-badges/azure-associate-ai-engineer.png
+    issueDate: 8 Sept 2022
+    expireDate: 9 Sept 2025
+  - displayName: 'Microsoft Certified: Azure Network Engineer Associate'
+    issuer: Microsoft
+    badgePath: public/images/certificate-badges/azure-associate-network-engineer.png
+    issueDate: 4 Jan 2022
+    expireDate: 4 Jan 2026
+  - displayName: 'Microsoft Certified: Information Protection and Compliance Administrator Associate'
+    issuer: Microsoft
+    badgePath: public/images/certificate-badges/azure-associate-information-protection.png
+    issueDate: 20 Apr 2021
+    expireDate: 21 Apr 2025
+  - displayName: 'AWS Certified Solutions Architect – Associate'
+    issuer: AWS
+    badgePath: public/images/certificate-badges/aws-associate-solutions-architect.png
+    issueDate: "2023-10-17"
+    expireDate: "2026-10-17"
+  - displayName: 'AWS Certified Cloud Practitioner'
+    issuer: AWS
+    badgePath: public/images/certificate-badges/aws-cloud-practitioner.png
+    issueDate: "2023-11-28"
+    expireDate: "2026-10-17"
+  - displayName: 'Associate Cloud Engineer Certification'
     issuer: Google Cloud
-    badgePath: public/images/certificate-badges/professional-cloud-architect-certification.png
-    issueDate: "2024-01-22"
-    expireDate: "2026-01-22"
-  - displayName: Professional Cloud Developer Certification
-    issuer: Google Cloud
-    badgePath: public/images/certificate-badges/professional-cloud-developer-certification.png
-    issueDate: "2023-04-13"
-    expireDate: "2025-04-13"
+    badgePath: public/images/certificate-badges/google-cloud-associate-cloud-engineer.png
+    issueDate: "2019-12-16"
+    expireDate: "2025-12-16"
+  # - displayName: 'OSHA / HSE Emergency First Aid in the Workplace Instructor'
+  #   issuer: First Responder Training International
+  #   badgePath: public/images/certificate-badges/frti-firstaid-instructor.png
+  #   issueDate: "2023-10-02"
+  #   expireDate: "2026-10-02"
